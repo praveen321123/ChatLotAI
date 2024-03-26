@@ -17,7 +17,7 @@ const MainCom = () => {
         {!showResult ?
         <>
           <div className="greet">
-            <p><span>Hello, Randy.</span></p>
+            <p><span>Hello, There!</span></p>
             <p>How can I help you today?</p>
           </div>
           <div className="cards">
